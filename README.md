@@ -1,8 +1,10 @@
 <h1 align="center">📘 Estudos de PHP - SENAC</h1>
-
 <p align="center">
   <a href="https://www.php.net/">
     <img alt="Made with PHP" src="https://img.shields.io/badge/Made%20with-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  </a>
+  <a href="https://www.apachefriends.org/index.html">
+    <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=apache&logoColor=white">
   </a>
   <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge">
   <a href="LICENSE">

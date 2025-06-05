@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora Simples</title>
+ 
+</head>
+<body>
+
+    <h2>Calculadora de Dobro e Triplo</h2>
+
+    <form action="resultado.php" method="post">
+        
+        <label for="numero">Digite um número:</label>
+        <input type="number" id="numero" name="numero" required>
+
+        <p>Selecione a operação:</p>
+        <input type="radio" id="dobro" name="operacao" value="dobro" checked>
+        <label for="dobro">Calcular o Dobro</label><br>
+        
+        <input type="radio" id="triplo" name="operacao" value="triplo">
+        <label for="triplo">Calcular o Triplo</label><br><br>
+
+        <button type="submit">Calcular</button>
+    </form>
+
+</body>
+</html>

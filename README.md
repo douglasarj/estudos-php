@@ -69,6 +69,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ✍️ Autor
 Douglas A. R. J.
 
-Curso: Técnico em Informática / SENAC
+Curso: Técnico em Desenvolvimento de Sistemas / SENAC
 
 GitHub: @douglasarj
